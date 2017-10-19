@@ -1,0 +1,6 @@
+demo:
+  age: 19
+  sizeCup: c
+server:
+    port: 8082
+

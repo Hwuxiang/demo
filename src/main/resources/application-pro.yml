@@ -1,0 +1,6 @@
+demo:
+  age: 20
+  sizeCup: f
+server:
+    port: 8081
+
